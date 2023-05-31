@@ -7,6 +7,7 @@ Selve programmet er lavet til et biliotek med basiske funktioner såsom:
 * Opret låner
 * Søg/print spcifik låner
 * Print alle lånere
+
 Programmet opfylder krav om at anvende klasser, constructurer, nedarvning mm.
 ---------------------------
 
