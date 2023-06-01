@@ -1,7 +1,7 @@
 # **Biblioteket**
 - By LH-Hansen
 
-##  **Descirption**
+##  **Description**
 Programmet er lavet som en afleverings opgave til at vise vores færdigheder i frohold til den undervisning vi har fået.
 
 Selve programmet er lavet til et biliotek med basiske funktioner såsom:
