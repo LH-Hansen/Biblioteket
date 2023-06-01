@@ -15,15 +15,15 @@ Programmet opfylder krav om at anvende klasser, constructurer, nedarvning mm.
 .NET 7.0
 
 ## **Changelog**
-### *Version 1*
+### *Version 0.1.0*
 Tilføjet mulighed for at printe bibliotek-navnet med dagens dato, samt xUnit test. Med program elementer som biblioteks-klasse of constructor.
-### *Version 2*
+### *Version 0.2.0*
 Lavet funktion til at oprette en låner vmed en klasse der indeholder navn og nummer der kan printe låner objekter.
-### *Version 3*
+### *Version 0.3.0*
 Flere lånere kan nu oprettes samt funktion til at printe alle lånere.
-### *Version 4*
+### *Version 0.4.0*
 Der er tilføjet en menu hvor man som bruger kan vælge hvilke af de overstpende funktioner skal bruges.
-### *Version 5*
+### *Version 1.0.0*
 Der er lavet en person klasse hvor låner nu nedarves fra.
 
 ## **ToDO/Upcomming features**
